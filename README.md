@@ -1,6 +1,6 @@
-# cceapp
+# CCE-app
 
-A new Flutter project.
+All the resources for SEM-4 (2024) can be found in this app, this is still under development to enable the Chat section to expand the capblities of this app.
 
 ## Getting Started
 
