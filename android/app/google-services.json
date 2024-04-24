@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1037728522849",
+    "project_id": "cceapp-2022",
+    "storage_bucket": "cceapp-2022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037728522849:android:63aeb033251ead464dc020",
+        "android_client_info": {
+          "package_name": "com.example.cceapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjCzwcQZUnIRRIZFMuCdPTDi-EvBadrqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
